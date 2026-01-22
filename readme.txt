@@ -24,7 +24,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 (a) Basic features
 
 I included multiple images, appropriate headers and paragraph text.
-I also included links to external pages, like my Github and Linkedin profiles.
+I also included links to external pages, like my Github and Linkedin profiles, as well as my resume.
 I also made multiple pages, with a corresponding navigation bar in the header.
 I used the footer HTML tag to link my Github, Linkedin, and email accounts.
 
@@ -38,6 +38,7 @@ I modified padding and margins to enhance readability.
 (c) Advanced features
 
 I created a more complex page layout by including a navigation bar.
+Added links to send me an email and schedule an appointmenet via Google Calendar.
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
