@@ -39,6 +39,7 @@ I modified padding and margins to enhance readability.
 
 I created a more complex page layout by including a navigation bar.
 Added links to send me an email and schedule an appointmenet via Google Calendar.
+Added embedded Youtube video of my class project.
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
